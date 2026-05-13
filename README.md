@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Edgar 👋
 
-<!--
-**EdgarAlvz/edgaralvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst transitioning from a Civil Engineering background, with experience in operations, workflow monitoring, and process optimization through data-driven decision-making.
 
-Here are some ideas to get you started:
+## Tools & Technologies
+- SQL
+- Python
+- Excel
+- Power BI
+- Control-M
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Process Optimization
+
+## About Me
+- 8+ years of professional experience
+- Background in Civil Engineering and operations
+- Interested in transforming data into business insights
+- Currently building analytical projects with Python and SQL
+
+## Connect with Me
+- LinkedIn: [linkedin.com/in/edgar-alvarez-garcía](https://linkedin.com/in/edgar-alvarez-garcía)
