@@ -6,6 +6,8 @@ Data Analyst transitioning from a Civil Engineering background, with experience 
 - SQL
 - Python
 - Excel
+- Google Sheets
+- Tableau
 - Power BI
 - Control-M
 
